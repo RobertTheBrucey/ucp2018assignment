@@ -1,0 +1,4 @@
+move 1
+draw 2
+move 2
+draw 1

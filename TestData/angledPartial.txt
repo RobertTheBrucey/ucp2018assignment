@@ -1,0 +1,6 @@
+rotate -45
+draw 1
+move 1
+draw 1
+move 2
+draw 1

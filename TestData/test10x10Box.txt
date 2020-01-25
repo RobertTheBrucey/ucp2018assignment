@@ -1,0 +1,11 @@
+pattern 1
+draw 9
+rotate -90
+pattern 2
+draw 9
+rotate -90
+pattern 3
+draw 9
+rotate -90
+pattern 4
+draw 9

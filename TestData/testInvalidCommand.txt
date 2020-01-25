@@ -1,0 +1,9 @@
+draw 2
+rotate -90
+pattern *
+draw 50
+poke
+poke potato
+pattern &
+rotate 180
+draw 25

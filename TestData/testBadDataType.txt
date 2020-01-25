@@ -1,0 +1,8 @@
+draw 5
+pattern 2
+draw five
+pattern 3
+fg potato
+draw 3
+bg 3.45
+draw 1

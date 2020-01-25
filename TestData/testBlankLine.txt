@@ -1,0 +1,11 @@
+draw 2
+
+
+
+pattern $
+
+
+
+
+
+draw 40
