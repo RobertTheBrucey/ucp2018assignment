@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      FileInput.c                                                     *
-* Author:    Sean Ashton * Student ID: 14866636                              *
+* Author:    Sean Ashton * Student ID:                               *
 * Reference: None.                                                           *
 * Unit:      COMP1000 Unix and C Programming                                 *
 * Purpose:   Read in a file and populate a linked list                       *

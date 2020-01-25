@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      LinkedList.c                                                    *
-* Author:    Sean Ashton * Student ID: 14866636                              *
+* Author:    Sean Ashton * Student ID:                               *
 * Unit:      COMP1000 Unix and C Programming                                 *
 * Purpose:   Implement a linked list for general use                         *
 * Reference: None.                                                           *

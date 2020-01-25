@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      FileInput.h                                                     *
-* Author:    Sean Ashton * Student ID: 14866636                              *
+* Author:    Sean Ashton * Student ID:                               *
 * Unit:      COMP1000 Unix and C Programming                                 *
 * Purpose:   Header for file input, includes structs for commands            *
 * Reference: None.                                                           *
